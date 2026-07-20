@@ -11,7 +11,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🧂 Council Salt Bin Mapping Tool")
+st.title("Council Salt Bin Mapping Tool")
 st.caption("Interactive map of salt bins by UNIT_AREA")
 
 # -------------------------
